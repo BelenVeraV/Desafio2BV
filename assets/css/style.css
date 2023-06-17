@@ -1,0 +1,51 @@
+body{
+    background-color: #f7cef3;
+    text-align: center;
+}
+
+.manicure{
+    text-align: center;
+    display: inline-block;
+    margin-bottom: 3%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.name{
+    position: absolute;
+    top: 120px;
+    left: 200px;
+    text-align: center;
+}
+
+.subn{
+    position: absolute;
+    top: 160px;
+    left: 200px;
+    text-align: center;
+}
+
+.uñas{
+    padding-right: 25%;
+}
+
+.uñas img{
+    display: inline-block;
+    margin-left: 1%;
+    margin-top: 6%;
+}
+
+.uñas p{
+    display: inline-block;
+    margin-left: 1%;
+    margin-top: 15%;
+    position: absolute;
+}
+
+.redes{
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 5%;
+}
